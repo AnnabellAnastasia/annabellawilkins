@@ -1,1 +1,2 @@
-# 1_Natours
+1. basic reset or normolise css.
+universal selector
