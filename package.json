@@ -1,5 +1,5 @@
 {
-  "name": "naturs",
+  "name": "postfolio",
   "version": "1.0.0",
   "description": "1. basic reset or normolise css. universal selector",
   "main": "index.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnnabellAnastasia/1_Natours.git"
+    "url": "git+https://github.com/AnnabellAnastasia/annabellawilkins.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnnabellAnastasia/1_Natours/issues"
+    "url": "https://github.com/AnnabellAnastasia/annabellawilkins.git"
   },
-  "homepage": "https://github.com/AnnabellAnastasia/1_Natours#readme"
+  "homepage": "https://github.com/AnnabellAnastasia/annabellawilkins.git#readme"
 }
