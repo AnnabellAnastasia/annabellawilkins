@@ -1,0 +1,25 @@
+{
+  "name": "naturs",
+  "version": "1.0.0",
+  "description": "1. basic reset or normolise css. universal selector",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnabellAnastasia/1_Natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnabellAnastasia/1_Natours/issues"
+  },
+  "homepage": "https://github.com/AnnabellAnastasia/1_Natours#readme"
+}
