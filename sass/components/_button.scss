@@ -71,6 +71,9 @@
 }
 
 .btn-text {
+    padding: 0 2rem;
+    cursor: pointer;
+
     &:link,
     &:visited {
         font-size: $default-font-size;
@@ -92,5 +95,23 @@
     &:active {
         box-shadow: 0 .5rem 1rem rgba($color-black, .15);
         transform: translateY(0);
+    }
+}
+.user-nav{
+    margin-bottom: 3rem;
+    display: flex;
+    align-items: center;
+    & > * {
+        padding: 0 2rem;
+        cursor: pointer;
+    }
+
+    &__icon-box {
+        display: flex;
+        align-items: center;
+    }
+    &__icon {
+        height: 2.75rem;
+        width: 2.75rem;
     }
 }
