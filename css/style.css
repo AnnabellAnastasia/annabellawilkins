@@ -238,7 +238,8 @@ body {
     text-decoration: none;
     border-bottom: 1px solid #ff96a7;
     padding: 3px;
-    transition: all .2s; }
+    transition: all .2s;
+    margin-left: 2rem; }
   .btn-text:hover {
     background-color: #ff96a7;
     color: #fff;
@@ -261,6 +262,11 @@ body {
   .user-nav__icon {
     height: 2.75rem;
     width: 2.75rem; }
+  .user-nav .icon-skills {
+    margin-bottom: 3rem;
+    padding: 0 2rem; }
+  .user-nav .email {
+    margin: 10 10 10 10; }
 
 .card {
   perspective: 150rem;
