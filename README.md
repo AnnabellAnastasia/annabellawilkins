@@ -1,4 +1,1 @@
-1. basic reset or normolise css.
-universal selector
-# annabellawilkins
-# annabellawilkins
+I started my journey into web development by completing Cooding Bootcamp in UNCC. During that time I created and build a number of projects as as a front and back end developer. Some of this projects you can find in on my portfolio website.
